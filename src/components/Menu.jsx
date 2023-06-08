@@ -4,8 +4,8 @@ import { Bars3Icon, XMarkIcon, PlusIcon } from '@heroicons/react/24/outline';
 import Logo from '../assets/sietsema-logo.png';
 
 const navigation = [
-    { name: 'Home', href: 'home' },
-    { name: 'Bedrijf', href: '#' },
+    { name: 'Home', href: '#home' },
+    { name: 'Bedrijf', href: '#company' },
     { name: 'Activiteiten', href: '#' },
     { name: 'Projecten', href: '#' },
     { name: 'Video\'s', href: '#' },
